@@ -1,0 +1,10 @@
+@media screen and (max-width: 400px) {
+    nav {
+      text-align: centre;
+    }
+  }
+  navbar {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+  }
